@@ -1,6 +1,6 @@
 # SyncNet-Lip-Sync-Project
 This repository contains the implementation of SyncNet for Lip-Syncing a given video with an input audio file. It extracts frames from a video, processes them using SyncNet, and generates a lip-synced output video. 
-
+'''
 📌 Features:
 ✅ Frame Extraction – Extracts frames from the input video.
 ✅ Audio Preprocessing – Converts audio to 16kHz mono for SyncNet.
@@ -16,5 +16,5 @@ This repository contains the implementation of SyncNet for Lip-Syncing a given v
  ├── run_syncnet.py         # Main script to run SyncNet
  ├── README.md              # Project description
  ├── requirements.txt       # Dependencies (if needed)
-
+ '''
  
